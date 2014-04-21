@@ -1,3 +1,15 @@
+/*-------------------------------------------------------------
+                Your main content.scss file
+---------------------------------------------------------------
+
+The class names are importants, it what will define to which
+element will the content be added.
+
+--------------------------------------------------------------*/
+
+
+/* Links
+--------------------------------------------------------------*/
 .link-1{
   content:"http://google.com";
 }
@@ -5,6 +17,8 @@
   content:"http://facebook.com";
 }
 
+/* Paragraphs
+--------------------------------------------------------------*/
 .paragraph-1{
   content:"Hello World";
 }
